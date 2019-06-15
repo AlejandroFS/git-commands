@@ -1,2 +1,2 @@
-# git-commands
+# Git-Commands
 A lot of git commands
