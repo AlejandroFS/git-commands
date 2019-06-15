@@ -1,0 +1,14 @@
+------------------------------------------------------------------
+To clone a repository
+git glone [repository url]
+git glone https://github.com/RainbowCoder/Rainbow-Song.git
+------------------------------------------------------------------
+get status of a repository (You should be in the folder of the respo)
+git status
+------------------------------------------------------------------
+To commit all the files with a comment
+get commit -a -m "Adding a comment"
+------------------------------------------------------------------
+To list configuration setting of git
+git config --list
+------------------------------------------------------------------+
