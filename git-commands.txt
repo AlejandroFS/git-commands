@@ -11,4 +11,7 @@ get commit -a -m "Adding a comment"
 ------------------------------------------------------------------
 To list configuration setting of git
 git config --list
-------------------------------------------------------------------+
+-------------------------------------------------------------------
+adds files from the working directory to the staging area
+git add [filename]
+-------------------------------------------------------------------
