@@ -18,3 +18,9 @@ git add [filename]
 log all the commits on the local repository
 git log
 -------------------------------------------------------------------
+get all changes from github to the local computer
+git pull
+-------------------------------------------------------------------
+Send changes from the computer to the github repository
+git push origin master
+-------------------------------------------------------------------
