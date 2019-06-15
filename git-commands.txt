@@ -15,3 +15,6 @@ git config --list
 adds files from the working directory to the staging area
 git add [filename]
 -------------------------------------------------------------------
+log all the commits on the local repository
+git log
+-------------------------------------------------------------------
