@@ -33,3 +33,9 @@ git init
 Upload a local repository to Github (You must creeate the reposiory first on Github)
 git remote add origin [repository url]
 -------------------------------------------------------------------
+Show branches:
+git branch -a
+-------------------------------------------------------------------
+Commit to a specific branch:
+git branch -a
+-------------------------------------------------------------------
