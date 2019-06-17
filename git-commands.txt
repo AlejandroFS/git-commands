@@ -12,15 +12,24 @@ get commit -a -m "Adding a comment"
 To list configuration setting of git
 git config --list
 -------------------------------------------------------------------
-adds files from the working directory to the staging area
+It adds files from the working directory to the staging area
 git add [filename]
+
+It adds all the files from the working directory to the staging area
+git add -A
 -------------------------------------------------------------------
 log all the commits on the local repository
 git log
 -------------------------------------------------------------------
 get all changes from github to the local computer
-git pull
+git pull origin master
 -------------------------------------------------------------------
 Send changes from the computer to the github repository
 git push origin master
+-------------------------------------------------------------------
+Initialize a local git repository
+git init
+-------------------------------------------------------------------
+Upload a local repository to Github (You must creeate the reposiory first on Github)
+git remote add origin [repository url]
 -------------------------------------------------------------------
