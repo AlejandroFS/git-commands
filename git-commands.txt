@@ -42,3 +42,12 @@ git checkout [name_of_branch]
 To push changes to a specific branch on github
 git push origin [name_of_branch]
 -------------------------------------------------------------------
+To remove the default remote calles "origin"
+git remote remove origin
+-------------------------------------------------------------------
+To add a remote to the local git
+git remote add [name_of_remote] [repository url]
+-------------------------------------------------------------------
+To show the currents remotes
+git remote -v
+-------------------------------------------------------------------
